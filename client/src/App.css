@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.wrap {
+  height: 50px;
+  background-color: darkgray;
+  align-self: center;
+  width: 95%;
+  text-align: center;
+  margin: 50px;
+  display: flex;
+  flex-direction: column;
+}
+
+.total_items {
+  margin: 50px;
+}
+
+.all_prodacts {
+  margin: 50px;
+   margin-top: 300px;
+}
